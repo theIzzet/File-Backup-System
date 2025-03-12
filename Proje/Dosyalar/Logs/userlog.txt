@@ -1,0 +1,667 @@
+2024-12-28 11:02:51 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:02:53 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:02:55 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:02:57 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:06:40 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:06:41 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:06:43 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:06:46 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:08:11 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:08:13 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:08:14 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:08:16 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:11:06 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:11:08 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:11:09 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:11:11 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:31:56 -WARNING- admin kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:38:50 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:38:52 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:38:53 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:38:55 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:38:56 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:44:37 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:44:38 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:44:40 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:44:41 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:25 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:26 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:27 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:29 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:43 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:44 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:45 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:47 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:46:48 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:53:11 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:53:12 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:53:14 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:53:16 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:53:17 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:56:20 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:56:22 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:56:23 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:56:26 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 11:56:27 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:30 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:32 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:34 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:35 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:37 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:56 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:05:58 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:06:00 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:06:01 -WARNING- kk kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:19:22 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:19:23 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:19:25 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:19:27 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:36:24 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:36:26 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:36:27 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:36:29 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:36:30 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:36 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:37 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:39 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:40 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:42 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:44 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:46 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:47 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:49 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:51 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:56 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:58 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:53:59 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:54:00 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:41 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:43 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:44 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:46 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:47 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:49 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:50 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:55:52 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:16 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:39 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:41 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:42 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:44 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:45 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:47 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:48 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:56:49 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:57:00 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:57:02 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:57:03 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:57:04 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 12:57:05 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:26 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:28 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:29 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:30 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:34 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:35 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:37 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:38 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:39 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:40 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:02:42 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:29 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:31 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:32 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:33 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:34 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:35 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:37 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:38 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:05:39 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:43 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:45 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:46 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:47 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:49 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:50 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:52 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:53 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:54 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:56 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:57 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:06:59 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:07:00 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:14 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:15 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:18 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:19 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:20 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:21 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:22 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:24 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:25 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:50 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:13:51 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:08 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:10 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:11 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:13 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:14 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:15 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:17 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:18 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:19 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:19 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:21 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:22 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:16:23 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:17:06 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:17:08 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:17:09 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:17:10 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 13:59:02 -INFO- c logged in to system
+2024-12-28 13:59:41 -INFO- c ğ tarafından gönderilen sss.txt dosyasını indirdi.
+2024-12-28 14:22:44 -INFO- t logged in to system
+2024-12-28 14:22:58 -INFO- t SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-28 15:17:45 -INFO- w logged in to system
+2024-12-28 16:00:14 -INFO- xxx logged in to system
+2024-12-28 16:01:01 -INFO- c logged in to system
+2024-12-28 16:01:27 -INFO- xxx logged in to system
+2024-12-28 16:04:10 -INFO- c logged in to system
+2024-12-28 16:05:44 -INFO- p logged in to system
+2024-12-28 16:06:17 -INFO- p logged in to system
+2024-12-28 16:06:28 -INFO- p SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-28 16:06:38 - INFO - p qaz'yi arkadaş olarak ekledi.
+2024-12-28 16:06:43 - INFO - p sent file 'SQL Homework.pdf' to qaz
+2024-12-28 16:06:54 -INFO- qaz logged in to system
+2024-12-28 16:07:01 -INFO- qaz p tarafından gönderilen SQL Homework.pdf dosyasını indirdi.
+2024-12-28 16:17:41 -INFO- qaz logged in to system
+2024-12-28 16:17:47 -INFO- qaz uygulama raporu dyt.docx adlı dosyayı yükledi.
+2024-12-28 16:17:53 - INFO - qaz sent file 'uygulama raporu dyt.docx' to p
+2024-12-28 16:18:04 -INFO- p logged in to system
+2024-12-28 16:18:10 -INFO- p qaz tarafından gönderilen uygulama raporu dyt.docx dosyasını indirdi.
+2024-12-28 16:32:04 -INFO- qaz logged in to system
+2024-12-28 16:32:20 -INFO- p logged in to system
+2024-12-28 16:32:27 -INFO- p sss.txt adlı dosyayı yükledi.
+2024-12-28 16:32:35 - INFO - p sent file 'sss.txt' to qaz
+2024-12-28 16:32:48 -INFO- qaz logged in to system
+2024-12-28 16:33:27 -INFO- qaz p tarafından gönderilen sss.txt dosyasını indirdi.
+2024-12-28 16:33:51 -INFO- p logged in to system
+2024-12-28 16:47:07 -INFO- p logged in to system
+2024-12-28 16:47:26 -INFO- p Isletim_Sistemleri_Uygulama_Odevi.pdf adlı dosyayı yükledi.
+2024-12-28 16:47:33 - INFO - p sent file 'Isletim_Sistemleri_Uygulama_Odevi.pdf' to qaz
+2024-12-28 16:47:56 -INFO- qaz logged in to system
+2024-12-28 16:48:04 -INFO- qaz p tarafından gönderilen Isletim_Sistemleri_Uygulama_Odevi.pdf dosyasını indirdi.
+2024-12-28 16:48:30 -WARNING- p kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 16:48:33 -INFO- p logged in to system
+2024-12-28 16:53:26 -INFO- qaz logged in to system
+2024-12-28 16:53:47 -INFO- qaz Donald M. Broom - The Evolution of Morality and Religion-cambridge university press (2003).pdf adlı dosyayı yükledi.
+2024-12-28 16:53:57 - INFO - qaz sent file 'Donald M. Broom - The Evolution of Morality and Religion-cambridge university press (2003).pdf' to p
+2024-12-28 16:54:08 -INFO- p logged in to system
+2024-12-28 16:54:16 -INFO- p qaz tarafından gönderilen Donald M. Broom - The Evolution of Morality and Religion-cambridge university press (2003).pdf dosyasını indirdi.
+2024-12-28 16:54:37 -INFO- p logged in to system
+2024-12-28 17:28:52 -INFO- qaz logged in to system
+2024-12-28 17:29:14 -INFO- p logged in to system
+2024-12-28 17:33:59 -INFO- qaz logged in to system
+2024-12-28 17:34:08 -INFO- qaz 20240705_d7a1c_2024-2025-akademik-takvim-senato-1-fcb.pdf adlı dosyayı yükledi.
+2024-12-28 17:34:19 - INFO - qaz sent file '20240705_d7a1c_2024-2025-akademik-takvim-senato-1-fcb.pdf' to p
+2024-12-28 17:34:31 -INFO- qaz logged in to system
+2024-12-28 17:34:39 -INFO- p logged in to system
+2024-12-28 17:34:47 -INFO- p qaz tarafından gönderilen 20240705_d7a1c_2024-2025-akademik-takvim-senato-1-fcb.pdf dosyasını indirdi.
+2024-12-28 17:35:11 -INFO- qaz logged in to system
+2024-12-28 17:35:59 -INFO- qaz logged in to system
+2024-12-28 17:40:33 -INFO- v logged in to system
+2024-12-28 17:40:55 -INFO- qaz logged in to system
+2024-12-28 17:41:04 -INFO- qaz Python projesi.pdf adlı dosyayı yükledi.
+2024-12-28 17:41:20 - INFO - qaz sent file 'Python projesi.pdf' to p
+2024-12-28 17:41:28 -INFO- p logged in to system
+2024-12-28 17:41:34 -INFO- p qaz tarafından gönderilen Python projesi.pdf dosyasını indirdi.
+2024-12-28 17:42:05 -INFO- qaz logged in to system
+2024-12-28 17:45:03 -INFO- qaz logged in to system
+2024-12-28 17:45:07 -INFO- qaz asdf.txt adlı dosyayı yükledi.
+2024-12-28 17:45:21 - INFO - qaz sent file 'asdf.txt' to p
+2024-12-28 17:45:29 -INFO- p logged in to system
+2024-12-28 17:45:37 -INFO- p qaz tarafından gönderilen asdf.txt dosyasını indirdi.
+2024-12-28 17:46:03 -INFO- qaz logged in to system
+2024-12-28 17:47:06 -INFO- xxx logged in to system
+2024-12-28 17:47:29 -INFO- v logged in to system
+2024-12-28 17:47:36 - INFO - v w'yi arkadaş olarak ekledi.
+2024-12-28 17:47:42 - INFO - v sent file 'Module-Unit-Testing.docx' to w
+2024-12-28 17:47:49 -INFO- w logged in to system
+2024-12-28 17:48:03 -INFO- qaz logged in to system
+2024-12-28 17:48:07 -INFO- qaz Matplotlib ve Pandas.zip adlı dosyayı yükledi.
+2024-12-28 17:49:17 - INFO - qaz sent file 'Matplotlib ve Pandas.zip' to p
+2024-12-28 17:49:26 -INFO- p logged in to system
+2024-12-28 17:49:31 -INFO- p qaz tarafından gönderilen Matplotlib ve Pandas.zip dosyasını indirdi.
+2024-12-28 17:49:57 -INFO- qaz logged in to system
+2024-12-28 17:54:06 -INFO- qaz logged in to system
+2024-12-28 17:54:28 -INFO- qaz Position_Salaries.csv adlı dosyayı yükledi.
+2024-12-28 17:54:41 - INFO - qaz sent file 'Position_Salaries.csv' to p
+2024-12-28 17:54:49 -INFO- p logged in to system
+2024-12-28 17:54:53 -INFO- p qaz tarafından gönderilen Position_Salaries.csv dosyasını indirdi.
+2024-12-28 17:55:13 -INFO- qaz logged in to system
+2024-12-28 17:58:29 -INFO- qaz logged in to system
+2024-12-28 17:59:02 -INFO- qaz logged in to system
+2024-12-28 17:59:08 -INFO- qaz daasdasd.txt adlı dosyayı yükledi.
+2024-12-28 17:59:17 - INFO - qaz sent file 'daasdasd.txt' to p
+2024-12-28 17:59:26 -INFO- p logged in to system
+2024-12-28 17:59:32 -INFO- p qaz tarafından gönderilen daasdasd.txt dosyasını indirdi.
+2024-12-28 17:59:56 -INFO- qaz logged in to system
+2024-12-28 18:02:41 -INFO- c logged in to system
+2024-12-28 18:02:46 -INFO- c daasdasd.txt adlı dosyayı yükledi.
+2024-12-28 18:02:56 - INFO - c sent file 'daasdasd.txt' to f
+2024-12-28 18:03:03 -INFO- f logged in to system
+2024-12-28 18:03:09 -INFO- f c tarafından gönderilen daasdasd.txt dosyasını indirdi.
+2024-12-28 18:03:22 -INFO- c logged in to system
+2024-12-28 18:11:53 -INFO- qaz logged in to system
+2024-12-28 18:11:57 -INFO- qaz abc.txt adlı dosyayı yükledi.
+2024-12-28 18:12:07 - INFO - qaz sent file '20240705_d7a1c_2024-2025-akademik-takvim-senato-1-fcb.pdf' to p
+2024-12-28 18:12:14 - INFO - qaz sent file 'abc.txt' to p
+2024-12-28 18:12:24 -INFO- p logged in to system
+2024-12-28 18:12:29 -INFO- p qaz tarafından gönderilen abc.txt dosyasını indirdi.
+2024-12-28 18:12:49 -INFO- qaz logged in to system
+2024-12-28 18:23:30 -INFO- qaz logged in to system
+2024-12-28 18:26:17 -INFO- qaz logged in to system
+2024-12-28 18:28:19 -INFO- qaz logged in to system
+2024-12-28 18:28:41 -INFO- qaz logged in to system
+2024-12-28 18:31:35 -INFO- qaz logged in to system
+2024-12-28 18:39:41 -INFO- p logged in to system
+2024-12-28 22:48:41 -INFO- c logged in to system
+2024-12-28 22:50:55 - INFO - c e'yi arkadaş olarak ekledi.
+2024-12-28 22:51:01 - INFO - c sent file 'Python projesi.pdf' to e
+2024-12-28 22:51:09 -WARNING- e kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-28 22:51:13 -INFO- e logged in to system
+2024-12-28 22:51:21 -INFO- e c tarafından gönderilen Python projesi.pdf dosyasını indirdi.
+2024-12-28 22:51:46 -INFO- c logged in to system
+2024-12-28 22:56:02 -INFO- c logged in to system
+2024-12-28 23:07:17 -INFO- e logged in to system
+2024-12-28 23:07:22 -INFO- e YAZILIM GELİŞTİRME I - PROJE II.pdf adlı dosyayı yükledi.
+2024-12-28 23:07:28 -INFO- e YAZILIM GELİŞTİRME I - PROJE II.pdf adlı dosyayı yükledi.
+2024-12-28 23:25:13 -INFO- c logged in to system
+2024-12-28 23:29:29 - INFO - c sent file 'Position_Salaries.csv' to e
+2024-12-28 23:29:41 -INFO- e logged in to system
+2024-12-28 23:29:55 -INFO- e c tarafından gönderilen Position_Salaries.csv dosyasını indirdi.
+2024-12-28 23:30:53 -INFO- c logged in to system
+2024-12-28 23:31:20 -WARNING- admin kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 12:49:43 -INFO- c logged in to system
+2024-12-29 12:51:15 -INFO- c logged in to system
+2024-12-29 12:51:32 -INFO- c Module-Unit-Testing.docx adlı dosyayı yükledi.
+2024-12-29 12:53:25 -INFO- c logged in to system
+2024-12-29 12:54:55 -INFO- w logged in to system
+2024-12-29 13:12:39 -INFO- c logged in to system
+2024-12-29 13:12:46 - INFO - c sent file 'Module-Unit-Testing.docx' to e
+2024-12-29 13:12:59 -INFO- e logged in to system
+2024-12-29 13:13:05 -INFO- e c tarafından gönderilen Module-Unit-Testing.docx dosyasını indirdi.
+2024-12-29 13:14:42 -INFO- c logged in to system
+2024-12-29 13:23:21 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:23:22 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:23:23 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:23:25 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:25:01 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:25:02 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:25:03 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:25:05 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:27:01 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:27:04 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:27:06 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:27:07 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:28:32 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:28:34 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:28:35 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:28:36 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:29:56 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:29:58 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:29:59 -WARNING- f kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:43:53 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:43:54 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:43:55 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:43:56 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:55:24 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:55:26 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:55:27 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:55:28 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:19 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:20 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:22 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:24 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:53 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:55 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:57 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:57:59 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:59:56 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:59:57 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:59:58 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 13:59:59 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:00:59 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:01:00 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:01:01 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:01:02 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:03:55 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:03:56 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:03:58 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:04:00 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:04:42 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:04:44 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:04:46 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:04:47 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:09:56 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:09:57 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:09:58 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:09:59 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:12:34 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:12:36 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:12:37 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:12:38 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:12:40 -WARNING- xxx kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:16:54 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:16:55 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:16:57 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:16:58 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:18:59 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:19:00 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:19:02 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:19:04 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 14:20:40 -INFO- e logged in to system
+2024-12-29 14:21:12 -INFO- fatih logged in to system
+2024-12-29 14:21:16 -INFO- fatih IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 14:21:21 -INFO- fatih asdf.txt adlı dosyayı yükledi.
+2024-12-29 14:21:27 -INFO- fatih SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-29 14:21:35 -INFO- fatih Position_Salaries.csv adlı dosyayı yükledi.
+2024-12-29 14:26:24 -INFO- fatih logged in to system
+2024-12-29 14:26:40 -INFO- fatih IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 14:26:47 -INFO- fatih sss.txt adlı dosyayı yükledi.
+2024-12-29 14:26:52 -INFO- fatih Isletim_Sistemleri_Uygulama_Odevi.pdf adlı dosyayı yükledi.
+2024-12-29 14:26:57 -INFO- fatih Python projesi.pdf adlı dosyayı yükledi.
+2024-12-29 14:29:03 -INFO- bö logged in to system
+2024-12-29 14:29:08 -INFO- bö IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 14:29:12 -INFO- bö YAZILIM GELİŞTİRME I - PROJE II.pdf adlı dosyayı yükledi.
+2024-12-29 14:29:16 -INFO- bö Isletim_Sistemleri_Uygulama_Odevi.pdf adlı dosyayı yükledi.
+2024-12-29 14:29:21 -INFO- bö SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-29 14:32:51 -INFO- bö logged in to system
+2024-12-29 14:33:04 -INFO- bö abc.txt adlı dosyayı yükledi.
+2024-12-29 14:33:08 -INFO- bö daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 14:33:13 -INFO- bö YAZILIM GELİŞTİRME I - PROJE II.pdf adlı dosyayı yükledi.
+2024-12-29 14:33:17 -INFO- bö Position_Salaries.csv adlı dosyayı yükledi.
+2024-12-29 14:36:50 -INFO- bö logged in to system
+2024-12-29 14:37:06 -INFO- bö Donald M. Broom - The Evolution of Morality and Religion-cambridge university press (2003).pdf adlı dosyayı yükledi.
+2024-12-29 14:37:15 -INFO- bö Python projesi.pdf adlı dosyayı yükledi.
+2024-12-29 14:37:22 -INFO- bö 20240705_d7a1c_2024-2025-akademik-takvim-senato-1-fcb.pdf adlı dosyayı yükledi.
+2024-12-29 14:37:29 -INFO- bö uygulama raporu dyt.docx adlı dosyayı yükledi.
+2024-12-29 14:42:27 -INFO- fatih logged in to system
+2024-12-29 14:42:44 -INFO- fatih IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 14:42:48 -INFO- fatih daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 14:42:52 -INFO- fatih SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-29 14:42:58 -INFO- fatih Module-Unit-Testing.docx adlı dosyayı yükledi.
+2024-12-29 14:45:14 -INFO- bö logged in to system
+2024-12-29 14:45:30 -INFO- bö IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 14:45:34 -INFO- bö abc.txt adlı dosyayı yükledi.
+2024-12-29 14:45:38 -INFO- bö daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 14:45:42 -INFO- bö asdf.txt adlı dosyayı yükledi.
+2024-12-29 14:47:32 -INFO- fatih logged in to system
+2024-12-29 14:47:45 -WARNING- fatih IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 14:47:49 -WARNING- fatih daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 14:47:54 -WARNING- fatih abc.txt adlı dosyayı yükledi.
+2024-12-29 14:47:57 -WARNING- fatih asdf.txt adlı dosyayı yükledi.
+2024-12-29 14:49:02 -INFO- fatih logged in to system
+2024-12-29 14:49:17 -WARNING- fatih IEEE_Template (1).docx adlı dosyayı yükledi.
+2024-12-29 14:49:21 -WARNING- fatih abc.txt adlı dosyayı yükledi.
+2024-12-29 14:49:25 -WARNING- fatih asdf.txt adlı dosyayı yükledi.
+2024-12-29 14:49:53 -WARNING- fatih SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-29 14:55:31 -INFO- bö logged in to system
+2024-12-29 14:55:45 -WARNING- bö abc.txt adlı dosyayı yükledi.
+2024-12-29 14:55:49 -WARNING- bö daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 14:55:53 -WARNING- bö asdf.txt adlı dosyayı yükledi.
+2024-12-29 14:55:56 -WARNING- bö IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 15:02:58 -INFO- bö logged in to system
+2024-12-29 15:03:11 -INFO- bö IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 15:03:21 -INFO- bö daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 15:03:25 -INFO- bö abc.txt adlı dosyayı yükledi.
+2024-12-29 15:03:36 -INFO- bö sss.txt adlı dosyayı yükledi.
+2024-12-29 15:04:03 -INFO- fatih logged in to system
+2024-12-29 15:04:06 -INFO- fatih requested a password reset
+2024-12-29 15:04:07 -INFO- fatih requested a password reset
+2024-12-29 15:04:07 -INFO- fatih requested a password reset
+2024-12-29 15:04:07 -INFO- fatih requested a password reset
+2024-12-29 15:04:07 -INFO- fatih requested a password reset
+2024-12-29 15:04:07 -INFO- fatih requested a password reset
+2024-12-29 15:04:07 -INFO- fatih requested a password reset
+2024-12-29 15:09:37 -INFO- bö logged in to system
+2024-12-29 15:09:38 -WARNING- bö requested a password reset
+2024-12-29 15:09:39 -WARNING- bö requested a password reset
+2024-12-29 15:09:39 -WARNING- bö requested a password reset
+2024-12-29 15:09:39 -WARNING- bö requested a password reset
+2024-12-29 15:09:39 -WARNING- bö requested a password reset
+2024-12-29 15:09:39 -WARNING- bö requested a password reset
+2024-12-29 15:17:31 -INFO- bö logged in to system
+2024-12-29 15:17:32 -INFO- bö requested a password reset
+2024-12-29 15:17:33 -INFO- bö requested a password reset
+2024-12-29 15:17:33 -INFO- bö requested a password reset
+2024-12-29 15:17:33 -INFO- bö requested a password reset
+2024-12-29 15:17:33 -INFO- bö requested a password reset
+2024-12-29 15:17:33 -INFO- bö requested a password reset
+2024-12-29 15:18:03 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:18:04 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:18:06 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:18:07 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:19:49 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:19:50 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:19:51 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:19:52 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:22:12 -INFO- bö logged in to system
+2024-12-29 15:22:17 -INFO- w logged in to system
+2024-12-29 15:22:23 -INFO- t logged in to system
+2024-12-29 15:22:24 -INFO- t requested a password reset
+2024-12-29 15:22:24 -INFO- t requested a password reset
+2024-12-29 15:22:25 -INFO- t requested a password reset
+2024-12-29 15:22:25 -INFO- t requested a password reset
+2024-12-29 15:22:25 -INFO- t requested a password reset
+2024-12-29 15:22:25 -INFO- t requested a password reset
+2024-12-29 15:24:03 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:24:05 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:24:07 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:24:08 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:25:54 -INFO- p logged in to system
+2024-12-29 15:25:56 -INFO- p requested a password reset
+2024-12-29 15:25:56 -INFO- p requested a password reset
+2024-12-29 15:25:56 -INFO- p requested a password reset
+2024-12-29 15:25:56 -INFO- p requested a password reset
+2024-12-29 15:25:56 -INFO- p requested a password reset
+2024-12-29 15:27:38 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:27:39 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:27:40 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:27:42 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:31:32 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:31:33 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:31:35 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:31:36 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:32:04 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:32:14 -INFO- e logged in to system
+2024-12-29 15:32:15 -INFO- e requested a password reset
+2024-12-29 15:32:15 -INFO- e requested a password reset
+2024-12-29 15:32:15 -INFO- e requested a password reset
+2024-12-29 15:32:15 -INFO- e requested a password reset
+2024-12-29 15:32:16 -INFO- e requested a password reset
+2024-12-29 15:33:12 -INFO- z logged in to system
+2024-12-29 15:33:16 -INFO- z requested a password reset
+2024-12-29 15:33:16 -INFO- z requested a password reset
+2024-12-29 15:33:17 -INFO- z requested a password reset
+2024-12-29 15:33:17 -INFO- z requested a password reset
+2024-12-29 15:33:17 -INFO- z requested a password reset
+2024-12-29 15:33:17 -INFO- z requested a password reset
+2024-12-29 15:33:17 -INFO- z requested a password reset
+2024-12-29 15:36:20 -WARNING- bö kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:36:22 -WARNING- bö kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:36:23 -WARNING- bö kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:36:25 -WARNING- bö kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:40:11 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:40:13 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:40:14 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:40:15 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:41:03 -WARNING- p kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:41:05 -WARNING- p kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:41:06 -WARNING- p kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:41:07 -WARNING- p kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:42:17 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:42:18 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:42:19 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:42:20 -WARNING- c kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:43:38 -INFO- bö logged in to system
+2024-12-29 15:44:02 -INFO- bö IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 15:44:06 -INFO- bö abc.txt adlı dosyayı yükledi.
+2024-12-29 15:44:10 -INFO- bö daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 15:44:14 -INFO- bö asdf.txt adlı dosyayı yükledi.
+2024-12-29 15:44:47 -INFO- bö requested a password reset
+2024-12-29 15:44:47 -INFO- bö requested a password reset
+2024-12-29 15:44:47 -INFO- bö requested a password reset
+2024-12-29 15:44:47 -INFO- bö requested a password reset
+2024-12-29 15:44:48 -INFO- bö requested a password reset
+2024-12-29 15:44:48 -INFO- bö requested a password reset
+2024-12-29 15:48:03 -INFO- c logged in to system
+2024-12-29 15:48:29 -INFO- l logged in to system
+2024-12-29 15:48:30 -INFO- l requested a password reset
+2024-12-29 15:48:30 -INFO- l requested a password reset
+2024-12-29 15:48:30 -INFO- l requested a password reset
+2024-12-29 15:48:30 -INFO- l requested a password reset
+2024-12-29 15:48:30 -INFO- l requested a password reset
+2024-12-29 15:48:31 -INFO- l requested a password reset
+2024-12-29 15:54:20 -WARNING- l kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 15:54:23 -INFO- l logged in to system
+2024-12-29 15:54:28 -INFO- l IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 15:54:32 -INFO- l asdf.txt adlı dosyayı yükledi.
+2024-12-29 15:54:36 -INFO- l daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 15:54:40 -INFO- l abc.txt adlı dosyayı yükledi.
+2024-12-29 15:58:50 -INFO- l logged in to system
+2024-12-29 15:59:03 -INFO- l IEEE_Template (1).docx adlı dosyayı yükledi.
+2024-12-29 15:59:07 -INFO- l daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 15:59:11 -INFO- l abc.txt adlı dosyayı yükledi.
+2024-12-29 15:59:15 -INFO- l sss.txt adlı dosyayı yükledi.
+2024-12-29 16:01:13 -INFO- bö logged in to system
+2024-12-29 16:01:27 -INFO- bö abc.txt adlı dosyayı yükledi.
+2024-12-29 16:01:34 -INFO- bö asdf.txt adlı dosyayı yükledi.
+2024-12-29 16:01:37 -INFO- bö IEEE_Template.docx adlı dosyayı yükledi.
+2024-12-29 16:01:41 -INFO- bö IEEE_Template (1).docx adlı dosyayı yükledi.
+2024-12-29 16:04:57 -INFO- fatih logged in to system
+2024-12-29 16:05:11 -INFO- fatih daasdasd.txt adlı dosyayı yükledi.
+2024-12-29 16:05:17 -INFO- fatih YAZILIM GELİŞTİRME I - PROJE II.pdf adlı dosyayı yükledi.
+2024-12-29 16:05:24 -INFO- fatih uygulama raporu dyt.docx adlı dosyayı yükledi.
+2024-12-29 16:05:29 -INFO- fatih Position_Salaries.csv adlı dosyayı yükledi.
+2024-12-29 16:08:33 -INFO- bö logged in to system
+2024-12-29 16:09:05 - INFO - bö l'yi arkadaş olarak ekledi.
+2024-12-29 16:09:11 - INFO - bö sent file 'abc.txt' to l
+2024-12-29 16:09:13 - INFO - bö sent file 'asdf.txt' to l
+2024-12-29 16:09:14 - INFO - bö sent file 'IEEE_Template (1).docx' to l
+2024-12-29 16:09:15 - INFO - bö sent file 'IEEE_Template.docx' to l
+2024-12-29 16:09:23 -INFO- l logged in to system
+2024-12-29 16:09:29 -INFO- l bö tarafından gönderilen abc.txt dosyasını indirdi.
+2024-12-29 16:09:31 -INFO- l bö tarafından gönderilen asdf.txt dosyasını indirdi.
+2024-12-29 16:09:32 -INFO- l bö tarafından gönderilen IEEE_Template (1).docx dosyasını indirdi.
+2024-12-29 16:09:34 -INFO- l bö tarafından gönderilen IEEE_Template.docx dosyasını indirdi.
+2024-12-29 16:10:52 -INFO- bö logged in to system
+2024-12-29 16:10:56 - INFO - bö wer'yi arkadaş olarak ekledi.
+2024-12-29 16:11:03 - INFO - bö sent file 'abc.txt' to wer
+2024-12-29 16:11:04 - INFO - bö sent file 'asdf.txt' to wer
+2024-12-29 16:11:06 - INFO - bö sent file 'IEEE_Template (1).docx' to wer
+2024-12-29 16:11:07 - INFO - bö sent file 'IEEE_Template.docx' to wer
+2024-12-29 16:11:14 -INFO- wer logged in to system
+2024-12-29 16:11:22 -INFO- wer bö tarafından gönderilen abc.txt dosyasını indirdi.
+2024-12-29 16:11:23 -INFO- wer bö tarafından gönderilen asdf.txt dosyasını indirdi.
+2024-12-29 16:11:24 -INFO- wer bö tarafından gönderilen IEEE_Template (1).docx dosyasını indirdi.
+2024-12-29 16:11:26 -INFO- wer bö tarafından gönderilen IEEE_Template.docx dosyasını indirdi.
+2024-12-29 16:50:16 -INFO- fatih logged in to system
+2024-12-29 18:09:53 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 18:09:55 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 18:09:56 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-29 18:09:57 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-30 12:57:26 -INFO- fatih logged in to system
+2024-12-30 17:26:43 -INFO- c logged in to system
+2024-12-31 17:18:27 -INFO- fatih logged in to system
+2024-12-31 17:18:34 -WARNING- fatih kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-31 17:18:39 -INFO- fatih logged in to system
+2024-12-31 17:18:56 -INFO- fatih Proje Raporu.docx adlı dosyayı yükledi.
+2024-12-31 21:12:08 -INFO- fatih logged in to system
+2024-12-31 21:12:25 -INFO- fatih SQL Homework.pdf adlı dosyayı yükledi.
+2024-12-31 21:13:35 -INFO- fatih logged in to system
+2024-12-31 21:13:50 -INFO- fatih 20240705_d7a1c_2024-2025-akademik-takvim-senato-1-fcb.pdf adlı dosyayı yükledi.
+2024-12-31 21:26:36 -WARNING- w kullanıcısı hatalı giriş işleminde bulundu.
+2024-12-31 21:26:40 -INFO- w logged in to system
+2024-12-31 21:26:52 -INFO- w proje_rapor.pdf adlı dosyayı yükledi.
+2024-12-31 21:28:58 -INFO- w logged in to system
+2024-12-31 21:29:03 -INFO- w SQL Homework.pdf adlı dosyayı yükledi.
+2025-01-02 00:09:57 -INFO- yu logged in to system
+2025-01-02 00:10:08 -INFO- yu Proje Raporu.docx adlı dosyayı yükledi.
+2025-01-02 00:21:27 -INFO- yu logged in to system
+2025-01-02 00:22:01 -INFO- fatih logged in to system
+2025-01-02 00:22:13 -INFO- p logged in to system
+2025-01-02 00:22:25 -INFO- c logged in to system
+2025-01-02 01:19:21 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:19:22 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:19:24 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:19:25 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:24:43 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:24:45 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:24:46 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:24:48 -WARNING- yu kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:36:10 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:36:11 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:36:13 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:36:14 -WARNING- z kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:36:40 -INFO- yu logged in to system
+2025-01-02 01:36:41 -INFO- yu requested a password reset
+2025-01-02 01:36:41 -INFO- yu requested a password reset
+2025-01-02 01:36:41 -INFO- yu requested a password reset
+2025-01-02 01:36:42 -INFO- yu requested a password reset
+2025-01-02 01:36:42 -INFO- yu requested a password reset
+2025-01-02 01:36:42 -INFO- yu requested a password reset
+2025-01-02 01:36:42 -INFO- yu requested a password reset
+2025-01-02 01:36:43 -INFO- yu requested a password reset
+2025-01-02 01:36:43 -INFO- yu requested a password reset
+2025-01-02 01:38:51 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:38:54 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:38:56 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:38:57 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:38:59 -WARNING- t kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:39:06 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 01:39:10 -INFO- v logged in to system
+2025-01-02 01:39:23 -INFO- v requested a password reset
+2025-01-02 01:39:23 -INFO- v requested a password reset
+2025-01-02 01:39:23 -INFO- v requested a password reset
+2025-01-02 01:39:24 -INFO- v requested a password reset
+2025-01-02 01:39:27 -INFO- v requested a password reset
+2025-01-02 01:39:27 -INFO- v requested a password reset
+2025-01-02 01:39:32 -INFO- v requested a password reset
+2025-01-02 01:39:33 -INFO- v requested a password reset
+2025-01-02 01:45:19 -INFO- yu logged in to system
+2025-01-02 01:45:52 -INFO- yu logged in to system
+2025-01-02 01:46:03 -INFO- yu proje_rapor.pdf adlı dosyayı yükledi.
+2025-01-02 02:10:38 -INFO- z logged in to system
+2025-01-02 02:10:48 -INFO- z Proje Raporu.docx adlı dosyayı yükledi.
+2025-01-02 12:49:38 -WARNING- ccc kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 12:49:46 -WARNING- v kullanıcısı hatalı giriş işleminde bulundu.
+2025-01-02 12:49:50 -INFO- v logged in to system
+2025-01-02 12:49:53 -INFO- v requested a password reset
+2025-01-02 12:49:53 -INFO- v requested a password reset
+2025-01-02 12:49:54 -INFO- v requested a password reset
+2025-01-02 12:49:54 -INFO- v requested a password reset
+2025-01-02 12:50:16 -INFO- v requested a password reset
+2025-01-02 12:50:20 -INFO- v requested a password reset
+2025-01-02 12:50:35 -INFO- v requested a password reset
+2025-01-02 12:51:24 -INFO- yu logged in to system
+2025-01-02 12:51:26 -INFO- yu requested a password reset
+2025-01-02 12:51:26 -INFO- yu requested a password reset
+2025-01-02 12:51:26 -INFO- yu requested a password reset
+2025-01-02 13:44:03 -INFO- kl logged in to system
+2025-01-02 13:44:14 -INFO- c logged in to system
+2025-01-02 13:44:19 - INFO - c kl'yi arkadaş olarak ekledi.
+2025-01-02 13:44:27 - INFO - c sent file 'sss.txt' to kl
+2025-01-02 13:44:33 -INFO- kl logged in to system
+2025-01-02 13:44:43 -INFO- kl c tarafından gönderilen sss.txt dosyasını indirdi.
+2025-01-02 14:11:32 -INFO- c logged in to system
+2025-01-02 14:18:58 -INFO- kemal logged in to system
+2025-01-02 14:21:30 -INFO- izzet logged in to system
+2025-01-02 14:32:33 -INFO- izzet logged in to system
+2025-01-02 14:53:00 -INFO- izzet logged in to system
+2025-01-02 14:53:25 - INFO - izzet kemal'yi arkadaş olarak ekledi.
+2025-01-02 14:54:40 -INFO- izzet logged in to system
+2025-01-02 14:54:44 -INFO- izzet Proje Raporu.docx adlı dosyayı yükledi.
+2025-01-02 14:54:51 - INFO - izzet sent file 'Proje Raporu.docx' to kemal
+2025-01-02 14:55:46 -INFO- kemal logged in to system
+2025-01-02 15:01:43 -INFO- kemal izzet tarafından gönderilen Proje Raporu.docx dosyasını indirdi.

@@ -1,0 +1,63 @@
+WARNING- v kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+WARNING- z kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+WARNING- t kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+WARNING- xxx kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+WARNING- w kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+WARNING- c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+WARNING- c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 12:05:37 -WARNING- kk kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 12:06:02 -WARNING- kk kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 12:19:27 -WARNING- f kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 12:36:27 -WARNING- z kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 12:56:50 -WARNING- ccc kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 12:57:05 -WARNING- ccc kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:02:31 -WARNING- w kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:02:41 -WARNING- w kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:05:35 -WARNING- z kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:05:40 -WARNING- z kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:06:48 -WARNING- c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:06:53 -WARNING- c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:06:58 -WARNING- c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-28 13:13:22 -WARNING- xxx kullanıcısı 4 kere art arda hatalı giriş yaptı.
+2024-12-28 13:13:27 -WARNING- xxx kullanıcısı 3 kere art arda hatalı giriş yaptı.
+2024-12-28 13:16:15 -WARNING- f kullanıcısı 3 kere art arda hatalı giriş yaptı.
+2024-12-28 13:16:20 -WARNING- f kullanıcısı 3 kere art arda hatalı giriş yaptı.
+2024-12-28 13:16:25 -WARNING- f kullanıcısı 3 kere art arda hatalı giriş yaptı.
+2024-12-28 13:17:11 -WARNING- ccc kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 13:23:25 -User 'WARNING- w' made more than 3 consecutive failed login attempts.
+2024-12-29 13:25:07 -User 'c' made more than 3 consecutive failed login attempts.
+2024-12-29 13:27:09 -User 'w' made more than 3 consecutive failed login attempts.
+2024-12-29 13:43:59 -WARNING- w kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 13:55:29 -User 'WARNING- v' made more than 3 consecutive failed login attempts.
+2024-12-29 13:57:23 - User 'WARNING- ccc' made more than 3 consecutive failed login attempts.
+2024-12-29 14:01:05 -WARNING- ccc kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 14:03:59 -User 'WARNING- xxx' made more than 3 consecutive failed login attempts.
+2024-12-29 14:04:47 -User 'ccc' made more than 3 consecutive failed login attempts.
+2024-12-29 14:10:01 - User 'c' made more than 3 consecutive failed login attempts.
+2024-12-29 14:12:41 -WARNING- xxx kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 14:16:59 -User WARNING- c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 14:19:05 -WARNING- w kullanicisi 3 den fazla art arda hatali giris yapti.
+2024-12-29 15:04:09 -fatih kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:17:35 -WARNING- bö kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:22:26 -t kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:24:10 -WARNING-WARNING- t kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 15:25:56 p kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:31:37 -WARNING- fatih kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 15:32:17 -e kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:33:19 --WARNINGz kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:36:24 WARNING- bö kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 15:40:17 fatih kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 15:42:21 -WARNING-c kullanıcısı 3 den fazla art arda hatalı giriş yaptı.
+2024-12-29 15:44:48 -WARNING- bö kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 15:48:34 -WARNING- l kullanıcısı 3 dakika içinde 3'ten fazla şifre değiştirme talebinde bulundu.
+2024-12-29 16:04:52 -WARNING- bö kullanıcısı 1 dakika içinde 3'ten fazla dosya yükledi.
+2024-12-29 16:09:35 l kullanıcısı 1 dk içerisinde 3 den fazla dosya indirdi.
+2024-12-29 16:11:25 -WARNING- wer kullanıcısı 1 dk içerisinde 3 den fazla dosya indirdi.
+2024-12-29 18:09:58 -WARNING- fatih made more than 3 consecutive failed login attempts.
+2025-01-02 01:35:56 -WARNING- yu made more than 3 consecutive failed login attempts.
+2025-01-02 01:36:16 -WARNING- z made more than 3 consecutive failed login attempts.
+2025-01-02 01:36:42 -WARNING- yu made more than 3 password reset requests within 3 minutes.
+2025-01-02 01:36:47 -WARNING- yu made more than 3 password reset requests within 3 minutes.
+2025-01-02 01:39:00 -WARNING- t made more than 3 consecutive failed login attempts.
+2025-01-02 01:39:25 -WARNING- v made more than 3 password reset requests within 3 minutes.
+2025-01-02 12:51:30 -WARNING- yu made more than 3 password reset requests within 3 minutes.
